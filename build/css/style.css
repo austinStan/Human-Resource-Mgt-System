@@ -1,0 +1,67 @@
+
+.react-date-picker {
+  display: inline!important;
+}
+.react-date-picker__inputGroup {
+  padding: 0 50px !important;
+}
+.react-date-picker__wrapper {
+  border: thin solid green !important;
+}
+[type=radio]:checked, [type=radio]:not(:checked) {
+  position: relative !important;
+  opacity: 1 !important;
+}
+[type=checkbox]:checked,
+[type=checkbox]:not(:checked) {
+  position: relative !important;
+  opacity: 1 !important;
+}
+@media (min-width: 992px){
+.modal.modal-scrolling .modal-dialog {
+    position: fixed!important;
+    right: 500px!important;
+    bottom:200px !important;
+    width:700px;
+    top:70px;
+}
+}
+.mt-5 {
+  margin-top: 1rem!important;
+}
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+  display: block;
+  height: 64px !important;
+}
+.setpassword{
+  margin-top: 150px;
+}
+.setLogin {
+  width: 300px;
+  height: 300px;
+}
+.signin{
+  margin-top: 150px;
+}
+.setcard{
+  width: 300px;
+  height: 300px;
+}
+footer {
+  display: block;
+  height: 40px !important;
+}
+footer.page-footer {
+
+  position: fixed;
+  padding-right:1300px;
+}
+.footer-text{
+  text-align: center;
+  position: relative;
+  left:300%;
+}
+
+.nameloggedIn{
+  padding-left: 100px;
+}
